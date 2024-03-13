@@ -1,4 +1,4 @@
-id,course,grade,points_earned,max_points
+student_id,course,grade,points_earned,max_points
 7798814,2210,a,4,4
 7798814,1215,b,3,4
 2149193,1600,a,4,4
