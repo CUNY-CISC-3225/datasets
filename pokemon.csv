@@ -1,4 +1,4 @@
-attack,base_happiness,capture_rate,defense,experience_growth,height_m,hp,name,pokedex_number,speed,type1,type2,weight_kg,generation,is_legendary
+attack,base_happiness,cap_rate,defense,exp_growth,height,hp,name,pokedex_number,speed,type_1,type_2,weight,generation,is_legendary
 49,70,45,49,1059860,0.7,45,Bulbasaur,1,45,grass,poison,6.9,1,0
 62,70,45,63,1059860,1.0,60,Ivysaur,2,60,grass,poison,13.0,1,0
 100,70,45,123,1059860,2.0,80,Venusaur,3,80,grass,poison,100.0,1,0
